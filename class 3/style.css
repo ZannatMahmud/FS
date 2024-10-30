@@ -1,0 +1,25 @@
+/* tag selector*/
+h1{
+    color:brown ;
+    border: 5px solid burlywood  ;
+    padding: 30px
+
+    
+}
+
+/* id selector*/
+#my-text{
+color:hotpink ;
+padding: 8px
+
+}
+/* class selector*/
+.my-title{
+    color:rgb(24, 154, 158) ;
+    padding: 8px
+    
+}
+/*background image*/
+body{
+    background-image: url(./pexels-photo-399161.webp);
+}

@@ -1,0 +1,32 @@
+:root{
+    background-color: floralwhite;
+    --bg-color:aqua;
+    --padding-btn:15px;
+    border-color: cadetblue;
+.btn1{
+    background-color: var(--bg-color);
+    padding: var(--padding-btn);
+    border-color: cadetblue
+}
+.btn2{
+    background-color: var(--bg-color);
+    padding: var(--padding-btn);
+    border-color: cadetblue
+}
+.my-text{
+    font-family: fantasy;
+    color:cadetblue;
+    text-decoration: dotted;
+}
+.my-div{
+    height: 250px;px;
+    width: 300px;
+    overflow: scroll;
+    color: rgb(239, 125, 182);
+}
+.my-img{
+    width: 180px;
+    
+}
+
+
